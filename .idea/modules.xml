@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AWT Counter/AWT Counter.iml" filepath="$PROJECT_DIR$/AWT Counter/AWT Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator Servlet/Calculator Servlet.iml" filepath="$PROJECT_DIR$/Calculator Servlet/Calculator Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FJP-PRAC.iml" filepath="$PROJECT_DIR$/FJP-PRAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inet Address Example/Inet Address Example.iml" filepath="$PROJECT_DIR$/Inet Address Example/Inet Address Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KayEvent/KayEvent.iml" filepath="$PROJECT_DIR$/KayEvent/KayEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MenuExample1/MenuExample1.iml" filepath="$PROJECT_DIR$/MenuExample1/MenuExample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mouse Event Example/Mouse Event Example.iml" filepath="$PROJECT_DIR$/Mouse Event Example/Mouse Event Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student Result GUI/Student Result GUI.iml" filepath="$PROJECT_DIR$/Student Result GUI/Student Result GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing/Swing.iml" filepath="$PROJECT_DIR$/Swing/Swing.iml" />
+    </modules>
+  </component>
+</project>
